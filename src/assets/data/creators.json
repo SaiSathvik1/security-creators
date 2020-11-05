@@ -363,5 +363,19 @@
             ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
             ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"]
         ]
+    },
+    {
+        "name": "Sai Sathvik / Sathvik Techtuber",
+        "location": "India",
+        "timezone": "IST",
+        "avatar": "",
+        "schedule": "Weekly once",
+        "tags": ["Ethical Hacking", "Cyber Security"],
+        "links": [
+            ["https://www.youtube.com/c/SathvikTechtuber", "fab fa-youtube"],
+            ["https://www.udemy.com/user/sai-sathvik-4/", "fab fa-udemy"],
+            ["https://www.linkedin.com/in/sai-sathvik-ruppa-959543191/", "fab fa-linkedin"],
+            ["https://twitter.com/nullshock1", "fab fa-twitter"]
+         ]
     }
 ]
